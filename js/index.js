@@ -10,6 +10,7 @@ let noise = true;
 let on = false;
 let win;
 
+
 const turnCounter = document.querySelector("#turn");
 const topLeft = document.querySelector("#topleft");
 const topRight = document.querySelector("#topright");
