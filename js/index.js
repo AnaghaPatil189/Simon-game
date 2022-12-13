@@ -122,8 +122,8 @@ function four() {
 }
 
 function clearColor() {
-  topLeft.style.backgroundColor = "darkgreen";
-  topRight.style.backgroundColor = "darkred";
+  topLeft.style.backgroundColor = "olive";
+  topRight.style.backgroundColor = "red";
   bottomLeft.style.backgroundColor = "goldenrod";
   bottomRight.style.backgroundColor = "darkblue";
 }
